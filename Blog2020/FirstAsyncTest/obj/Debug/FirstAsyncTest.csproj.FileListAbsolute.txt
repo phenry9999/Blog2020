@@ -1,0 +1,7 @@
+c:\Dev\FirstAsyncTest\obj\Debug\FirstAsyncTest.csprojAssemblyReference.cache
+c:\Dev\FirstAsyncTest\obj\Debug\FirstAsyncTest.csproj.CoreCompileInputs.cache
+c:\Dev\FirstAsyncTest\bin\Debug\FirstAsyncTest.exe.config
+c:\Dev\FirstAsyncTest\bin\Debug\FirstAsyncTest.exe
+c:\Dev\FirstAsyncTest\bin\Debug\FirstAsyncTest.pdb
+c:\Dev\FirstAsyncTest\obj\Debug\FirstAsyncTest.exe
+c:\Dev\FirstAsyncTest\obj\Debug\FirstAsyncTest.pdb

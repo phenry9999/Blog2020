@@ -1,0 +1,7 @@
+C:\Dev\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Dev\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Dev\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Dev\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojAssemblyReference.cache
+C:\Dev\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csproj.CoreCompileInputs.cache
+C:\Dev\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Dev\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
