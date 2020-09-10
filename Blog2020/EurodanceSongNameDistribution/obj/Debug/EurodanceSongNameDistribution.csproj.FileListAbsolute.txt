@@ -1,7 +1,0 @@
-C:\Dev\EurodanceSongNameDistribution\bin\Debug\EurodanceSongNameDistribution.exe.config
-C:\Dev\EurodanceSongNameDistribution\bin\Debug\EurodanceSongNameDistribution.exe
-C:\Dev\EurodanceSongNameDistribution\bin\Debug\EurodanceSongNameDistribution.pdb
-C:\Dev\EurodanceSongNameDistribution\obj\Debug\EurodanceSongNameDistribution.csprojAssemblyReference.cache
-C:\Dev\EurodanceSongNameDistribution\obj\Debug\EurodanceSongNameDistribution.csproj.CoreCompileInputs.cache
-C:\Dev\EurodanceSongNameDistribution\obj\Debug\EurodanceSongNameDistribution.exe
-C:\Dev\EurodanceSongNameDistribution\obj\Debug\EurodanceSongNameDistribution.pdb
