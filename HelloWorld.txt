@@ -1,6 +1,7 @@
-This is the first tile I added to my project.
+This is the first tile I added to the project.
 
 
 Hello World, what happens now to git version control, what do you see?
 
 Now is a FOURTH change to the file
+Some more changes are made here to see what i can see
