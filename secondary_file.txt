@@ -1,2 +1,0 @@
-This is the second File I added to my project.
-testing testing.
